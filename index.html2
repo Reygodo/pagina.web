@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Página sobre ciberseguridad para proteger tus datos y dispositivos">
-    <title>Ciberseguridad</title>
+    <meta name="description" content="Restaurante Gourmet - Disfruta de una experiencia única de sabores">
+    <title>Restaurante Gourmet</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,81 +14,12 @@
             color: #333;
         }
         header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px;
+            background-color: #2c3e50;
+            color: white;
             text-align: center;
+            padding: 40px 0;
         }
         header h1 {
-            margin: 0;
-        }
-        nav {
-            background-color: #444;
-            padding: 10px;
-            text-align: center;
-        }
-        nav a {
-            color: white;
-            padding: 14px 20px;
-            text-decoration: none;
-            margin: 0 10px;
-        }
-        nav a:hover {
-            background-color: #575757;
-        }
-        .container {
-            width: 80%;
-            margin: 20px auto;
-        }
-        section {
-            background-color: white;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 8px;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-        img {
-            max-width: 100%;
-            border-radius: 8px;
-        }
-        .gif-container {
-            text-align: center;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
+            m
 
-    <header>
-        <h1>Ciberseguridad: Protege tus datos y dispositivos</h1>
-    </header>
-
-    <nav>
-        <a href="#que-es">¿Qué es la ciberseguridad?</a>
-        <a href="#consejos">Consejos de seguridad</a>
-        <a href="#amenazas">Amenazas comunes</a>
-    </nav>
-
-    <div class="container">
-
-        <section id="que-es">
-            <h2>¿Qué es la Ciberseguridad?</h2>
-            <p>La ciberseguridad es el conjunto de medidas y prácticas que tienen como objetivo proteger los sistemas informáticos, redes, dispositivos y datos contra ataques, accesos no autorizados, daños o robos. En un mundo cada vez más digital, la ciberseguridad es crucial para mantener la privacidad y la integridad de la información.</p>
-            <img src="https://www.kaspersky.com/blog/wp-content/uploads/2020/07/cybersecurity-banner-1.jpg" alt="Imagen de ciberseguridad">
-        </section>
-
-        <section id="consejos">
-            <h2>Consejos para una buena seguridad</h2>
-            <ul>
-                <li><strong>Usa contraseñas fuertes:</strong> Combina letras, números y caracteres especiales.</li>
-                <li><strong>Actualiza tus dispositivos:</strong> Mantén tu software y antivirus siempre al día.</li>
-                <li><strong>Protege tu red Wi-Fi:</strong> Asegúrate de que tu red Wi-Fi e
 
